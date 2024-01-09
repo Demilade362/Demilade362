@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/Demilade362/oluwademilade-abatan">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FF494900&center=true&lines=Hi+I'm+Oluwademilade+Abatan!+👋;" alt="Typing SVG" style="width: 60%; max-width: 200px; height: 70px; object-fit: contain; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&lines=Hi+I'm+Oluwademilade+Abatan!+👋;" alt="Typing SVG" style="width: 60%; max-width: 200px; height: 70px; object-fit: contain; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"/>
   </a>
 </h1>
 
