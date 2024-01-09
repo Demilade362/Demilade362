@@ -8,13 +8,19 @@
 
 ## About Me
 
-- 💻 [HTML, CSS, JAVASCRIPT, JQUERY, PHP, MYSQL, LARAVEL]
-- 🎯 [Want to work as a Software Engineer]
-- 🌐 [https://oluwademiladeabatan.netlify.app/]
+- 💻 HTML, CSS, JAVASCRIPT, JQUERY, PHP, MYSQL, LARAVEL
+- 🎯 Become a full time Software Engineer
+- 🌐 https://oluwademiladeabatan.netlify.app/
 
 ## Skills
 
-- [HTML, CSS, JAVASCRIPT, JQUERY, PHP, MYSQL, LARAVEL]
+- HTML
+- CSS
+- JAVASCRIPT
+- JQUERY
+- PHP
+- MYSQL
+- LARAVEL
 
 ## Projects
 
