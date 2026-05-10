@@ -17,15 +17,6 @@
 - TAILWIND CSS
 - REACT NATIVE
 
-
-## Projects
-
-Here are a few projects I'm proud of:
-
-- [My Portfolio](oluwademiladeabatan.netlify.app): My Porfolio to showcase my project
-- [FoodyMe-App](https://github.com/Demilade362/FoodyMe-App): A Restaurant Website to order for food
-  and so much more.
-
 ## Connect with Me
 
 Let's connect and chat about [Tech]!
