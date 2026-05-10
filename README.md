@@ -21,7 +21,7 @@
 
 Let's connect and chat about [Tech]!
 
-- [Twitter](https://twitter.com/demilade362)
+- [Twitter](https://x.com/TheNobsFounder)
 - [Portfolio/Blog](oluwademiladeabatan.netlify.app)
 - [Email](ademolademilade362@gmail.com)
 
