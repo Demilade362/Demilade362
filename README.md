@@ -8,7 +8,7 @@
 
 ## About Me
 
-- 💻 HTML, CSS, JAVASCRIPT, JQUERY, PHP, MYSQL, LARAVEL
+- 💻 HTML, CSS, JAVASCRIPT, REACT, NEXT JS, TAILWIND CSS, REACT NATIVE
 - 🎯 Become a full time Software Engineer
 - 🌐 https://oluwademiladeabatan.netlify.app/
 
@@ -17,12 +17,11 @@
 - HTML
 - CSS
 - JAVASCRIPT
-- JQUERY
 - REACT
 - NEXT JS
-- PHP
-- MYSQL
-- LARAVEL
+- TAILWIND CSS
+- REACT NATIVE
+
 
 ## Projects
 
